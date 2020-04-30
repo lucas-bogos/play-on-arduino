@@ -14,4 +14,4 @@ of your left side turn. nice, right? details, all this automatic!</p>
 <p>You can to use the Tinkercad for make code or direct on IDE of Arduino for when
 to use yourself Arduino hardware.</p>
 <h1>How will this work?</h1>
-<p>Only take code that >Traffic_light.cc </p>
+<p>Only take code that Traffic_light.cc </p>
