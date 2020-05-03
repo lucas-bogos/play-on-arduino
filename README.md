@@ -16,3 +16,7 @@ of your left side turn. nice, right? details, all this automatic!</p>
 to use yourself Arduino hardware.</p>
 <h1>How will this work?</h1>
 <p>Only take code that traffic_light and put on Tikercad or try doing upload for your IDE of Arduino.</p>
+<h1>Project Thermometer</h1>
+<figure>
+  <img src="project_thermissor_.png">
+</figure>
